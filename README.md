@@ -1,38 +1,32 @@
-# AI Backup Integrity
+# 🛡️ AI Backup Integrity
 
-> A backup you can't restore is just storage cost.
+Backup verification & ransomware detection — part of the **Zion Tech Group AI App Network** (320+ free flagship apps).
 
-AI that continuously verifies backup integrity, tests restorability and alerts on silent corruption. Part of the **Zion AI App Network** — 550+ interlinked AI & IT tools by [Zion Tech Group](https://ziontechgroup.com).
+- 🌐 Live app: https://ziontechgroup.com/ai-backup-integrity/
+- 🧭 Free Discovery (online & free, instant results emailed to you): https://ziontechgroup.com/discovery/
+- 🗂️ Network hub: https://github.com/Zion-support/zion-network · Showcase: https://ziontechgroup.com/apps/network.html
 
-**Live app:** https://ziontechgroup.com/ai-backup-integrity/
+## What it does
+Continuously verifies backup restorability; detects ransomware signatures in snapshots; proves compliance with immutable audit trails. Protects fleets managed by [AI Cluster Manager](https://github.com/Zion-support/ai-cluster-manager) and alerts via [AI Infrastructure Monitor](https://github.com/Zion-support/ai-infrastructure-monitor).
 
-## Features
-- Continuous checksum and integrity verification of backups
-- Automated restore drills in isolated sandboxes
-- Silent-corruption and ransomware-tamper detection
-- RPO/RTO compliance tracking with evidence reports
-- Coverage gap analysis (what's NOT being backed up)
-- Integrations: AWS S3, Azure Blob, GCS, Veeam, Commvault
+## Key features
+- Automated restore testing on schedules and after incidents
+- Entropy/behavioral ransomware detection in backup chains
+- Compliance reports (SOC 2, ISO 27001, HIPAA) and immutability checks
 
-## Use Cases
-- Prove restorability for audits and cyber-insurance
-- Catch corrupt backups before the day you need them
-- Automate compliance restore-testing evidence
+## ITOps AI suite (Batch 72)
+| App | Focus |
+|---|---|
+| [AI Infrastructure Monitor](https://github.com/Zion-support/ai-infrastructure-monitor) | Anomaly detection for infra |
+| [AI Capacity Planner](https://github.com/Zion-support/ai-capacity-planner) | Capacity forecasting |
+| [AI Cluster Manager](https://github.com/Zion-support/ai-cluster-manager) | Kubernetes/VM fleet ops |
+| **AI Backup Integrity** (this repo) | Backup verification |
 
-## Related Apps in the Zion App Network
-- [ai-backup-recovery](https://github.com/Zion-support/ai-backup-recovery) — https://ziontechgroup.com/ai-backup-recovery/
-- [zion-ai-compliance-scanner](https://github.com/Zion-support/zion-ai-compliance-scanner) — https://ziontechgroup.com/zion-ai-compliance-scanner/
-- [zion-ai-threat-brief](https://github.com/Zion-support/zion-ai-threat-brief) — https://ziontechgroup.com/zion-ai-threat-brief/
-- [ai-audit-logger](https://github.com/Zion-support/ai-audit-logger) — https://ziontechgroup.com/ai-audit-logger/
-- [zion-ai-drift-detector](https://github.com/Zion-support/zion-ai-drift-detector) — https://ziontechgroup.com/zion-ai-drift-detector/
-
-## Explore the Network
-- 🗂️ Master directory — [Zion App Network](https://github.com/Zion-support/zion-app-network) — https://ziontechgroup.com/zion-app-network/
-- 🌐 Homepage: https://ziontechgroup.com
-- 🧰 All tools: https://ziontechgroup.com/tools/
-- 💼 Plans & pricing: https://ziontechgroup.com/en/plans/
-- 📞 Discovery call: https://ziontechgroup.com/discovery/
-- ✉️ Contact: commercial@ziontechgroup.com
+## Adjacent suites
+- **Energy & Facilities AI:** [Energy Consumption Forecaster](https://github.com/Zion-support/energy-consumption-forecaster) · [Solar ROI Optimizer](https://github.com/Zion-support/solar-roi-optimizer) · [Grid Demand Balancer](https://github.com/Zion-support/grid-demand-balancer) · [Building Efficiency Auditor](https://github.com/Zion-support/building-efficiency-auditor)
+- **HR & Workforce AI:** [Shift Scheduler AI](https://github.com/Zion-support/shift-scheduler-ai) · [Recruiting Screening AI](https://github.com/Zion-support/recruiting-screening-ai) · [Employee Sentiment Pulse](https://github.com/Zion-support/employee-sentiment-pulse) · [HR Onboarding Copilot](https://github.com/Zion-support/hr-onboarding-copilot)
 
 ---
-© 2026 Zion Tech Group
+- 🏠 https://ziontechgroup.com · 💰 Plans: https://ziontechgroup.com/en/plans/ · 💼 commercial@ziontechgroup.com
+
+© 2026 Zion Tech Group — MIT
